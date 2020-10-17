@@ -1,0 +1,33 @@
+title: Me and the world
+email: katonalala@gmail.com
+description: >-
+  What I found, and how I learned them.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://katonalala.github.io/"
+github_username:  katonalala
+social_media_list:
+  linkedin: lajos-katona-0335b110a
+  github_username: elajkat
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+highlighter: rouge
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
